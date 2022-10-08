@@ -1,0 +1,9 @@
+#data-career-guide span,
+.app-nav {
+    color: white;
+    font-weight: bold;
+}
+
+section.cover .cover-main > p:last-child a:hover {
+    color: white;
+}
