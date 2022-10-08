@@ -1,0 +1,81 @@
+{
+  "consent_modal": {
+    "title": "Nós usamos cookies!",
+    "description": "Olá, esse site usa cookies essenciais para garantir seu funcionamento, e cookies de acompanhamento para entender como você enterage com ele. Esses últimos precisam do seu consentimento para funcionar. <button type='button' data-cc='c-settings' class='cc-link'>Personalize aqui</button>",
+    "primary_btn": {
+      "text": "Aceitar todos",
+      "role": "accept_all"
+    },
+    "secondary_btn": {
+      "text": "Recusar todos",
+      "role": "accept_necessary"
+    }
+  },
+  "settings_modal": {
+    "title": "Preferências de cookies",
+    "save_settings_btn": "Salve configurações",
+    "accept_all_btn": "Aceitar todos",
+    "reject_all_btn": "Recusar todos",
+    "close_btn_label": "Fechar",
+    "cookie_table_headers": [
+      {
+        "col1": "Nome"
+      },
+      {
+        "col2": "Domínio"
+      },
+      {
+        "col3": "Expiração"
+      },
+      {
+        "col4": "Descrição"
+      }
+    ],
+    "blocks": [
+      {
+        "title": "Utilização de cookies 📢",
+        "description": "Eu uso cookies para garantir o funcionamento básico do site e para melhorar sua experiência online. Você pode escolher aceitar ou recusar cada uma das categorias abaixo. Para mais detalhes sobre os cookies e outros dados sensiveis, por favor leia a <a href='#' class='cc-link'>política de privacidade</a>."
+      },
+      {
+        "title": "Cookies estritamente necessários",
+        "description": "Esses cookies são essenciais para o bom funcionamento do meu site. Sem esses cookies, o site não funcionaria corretamente",
+        "toggle": {
+          "value": "necessary",
+          "enabled": true,
+          "readonly": true
+        }
+      },
+      {
+        "title": "Cookies de Performance and Analytics",
+        "description": "Esses cookies permitem que o site se lembre das escolhas que você fez no passado",
+        "toggle": {
+          "value": "analytics",
+          "enabled": false,
+          "readonly": false
+        },
+        "cookie_table": [
+          {
+            "col1": "^_ga",
+            "col2": "google.com",
+            "col3": "2 years",
+            "col4": "Esses cookies são coletados pelo Google Analytics, e servem para te identificar através de múltiplas visitas no nosso site. Todos os dados são anonimizados e não podem ser usados para identificá-lo, e também não serão usados para fins de anúncios e retargeting",
+            "is_regex": true
+          }
+        ]
+      },
+      {
+        "title": "Cookies de anuncios",
+        "description": "Esses cookies podem ser usados para entender como você interage com anúncios. Todos os dados são anonimizados e não podem ser usados para identificá-lo",
+        "toggle": {
+          "value": "targeting",
+          "enabled": false,
+          "readonly": false
+        }
+      },
+      {
+        "title": "Mais informações",
+        "description": "Para quaisquer dúvidas em relação a nossa política de cookies e suas escolhas, entre em contato <a class='cc-link' href='mailto:contato@datacareer.guide'>contact us</a>."
+      }
+    ]
+  }
+}
