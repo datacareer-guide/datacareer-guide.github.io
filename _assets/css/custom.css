@@ -7,3 +7,7 @@
 section.cover .cover-main > p:last-child a:hover {
     color: white;
 }
+
+.app-nav li ul li {
+    color: var(--textColor);
+}
