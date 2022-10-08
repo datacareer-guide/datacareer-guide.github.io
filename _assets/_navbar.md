@@ -7,3 +7,4 @@
 * Traduções
 
   * [:brazil:](/)
+  * [:us:, :uk:](/en/)
