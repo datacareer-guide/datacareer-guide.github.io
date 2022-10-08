@@ -49,7 +49,7 @@
         '/': './_assets/_coverpage.md',
         '/en/': './_assets/_coverpage.md'
       },
-      loadSidebar: './_assets/_sidebar.md',
+      loadSidebar: '../_assets/_sidebar.md',
       subMaxLevel: 2,
       auto2top: true,
       nameLink: {
@@ -57,7 +57,11 @@
         '/': '/'
       },
       alias: {
-        // '/.*/_coverpage.md': './en/_assets/_coverpage.md'
+
+        '/en/.*/_sidebar.md': '/en/_assets/_sidebar.md',
+        '/en/.*/_navbar.md': '/en/_assets/_navbar.md',
+        '/.*/_sidebar.md': '/_assets/_sidebar.md',
+        '/.*/_navbar.md': '/_assets/_navbar.md',
       },
       pathNamespaces: ['/en'],
 
