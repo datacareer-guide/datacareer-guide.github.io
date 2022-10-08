@@ -1,5 +1,7 @@
 # Contributing to Data Career Guide
 
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
@@ -27,16 +29,16 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues]()
+## Report bugs using Github's [issues](https://github.com/datacareer-guide/datacareer-guide.github.io/issues)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/datacareer-guide/datacareer-guide.github.io/issues); it's that easy!
 
 **Great Bug Reports** tend to have:
 
 - A quick summary and/or background
 - Steps to reproduce
   - Be specific!
-  - Give sample code if you can. [A stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that *anyone* with a base R setup can run to reproduce what I was seeing
+  - Give sample code if you can.
 - What you expected would happen
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
