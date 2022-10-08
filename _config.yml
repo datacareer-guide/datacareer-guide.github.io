@@ -1,0 +1,14 @@
+title: Data Career Guide
+email: contact@datacareer.guide
+description: >- # this means to ignore newlines until "baseurl:"
+    Write an awesome description #TODO description
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 1cadumagalhaes
+github_username: 1cadumagalhaes
+markdown: GFM
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+    - jekyll-feed
+   
