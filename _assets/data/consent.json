@@ -1,7 +1,7 @@
 {
   "consent_modal": {
     "title": "Nós usamos cookies!",
-    "description": "Olá, esse site usa cookies essenciais para garantir seu funcionamento, e cookies de acompanhamento para entender como você enterage com ele. Esses últimos precisam do seu consentimento para funcionar. <button type='button' data-cc='c-settings' class='cc-link'>Personalize aqui</button>",
+    "description": "Olá, esse site usa cookies essenciais para garantir seu funcionamento, e cookies de acompanhamento para entender como você interage com ele. Esses últimos precisam do seu consentimento para funcionar. <button type='button' data-cc='c-settings' class='cc-link'>Personalize aqui</button>",
     "primary_btn": {
       "text": "Aceitar todos",
       "role": "accept_all"
