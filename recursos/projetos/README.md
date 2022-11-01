@@ -10,6 +10,8 @@ Vamos listar projetos em cada uma das carreiras, mas aqui está uma lista geral 
 | [GCP Codelabs](https://codelabs.developers.google.com/cloud)      | Aprenda sobre Google Cloud fazendo os codelabs e desafios                          | Google                                                                                          |
 | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | Cursos oficiais sobre Google Cloud                                                 | GCP                                                                                      Google |
 | [Learn To Cloud](https://learntocloud.guide/)                     | Guia de conhecimentos técnicos para as carreiras de Cloud e Devops                 | [@madebygp](https://twitter.com/madebygps/) e [@rishabk7](https://twitter.com/rishabk7)         |
+| [Kaggle](https://www.kaggle.com/)                     | Códigos e dados para estudos de ciências de dados               | [@kaggle](https://twitter.com/kaggle/) |
+
 
 ## Projetos Brasileiros
 
